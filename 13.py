@@ -1,0 +1,13 @@
+nombre = input ("Ingrese el nombre de la persona: ")
+edad = input ("Ingresela edad de la persona: ")
+direccion = input ("ingrese la direccion dela persona: ")
+promedio = 0
+posicion_mayor = 0
+edad_mayor = 0
+nombre_mayor = 0
+direccion_mayor=""
+posicion_menor = 0
+edad_menor = 0
+nombre_menor = ""
+direccion_menor = ""
+suma_de_edades = 0
